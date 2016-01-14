@@ -1,1 +1,5 @@
-** Text Analysis of DayOne Journal using Python Natural Language Processing module **
+### Text analysis of DayOne journal
+*Using Python Natural Language Processing module*
+
+___ 
+
