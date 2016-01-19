@@ -21,3 +21,7 @@ filteredText = [w for w in words if w not in stop_words]
 print(filteredText)
 
 # print(word_tokenize(sampleText))
+
+# To print the most common words use
+
+print("Most common words", sampleText.most_common(15))
